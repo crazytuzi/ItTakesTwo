@@ -1,0 +1,4 @@
+class UStrawBallSpawnerComponent : UStaticMeshComponent
+{
+
+}

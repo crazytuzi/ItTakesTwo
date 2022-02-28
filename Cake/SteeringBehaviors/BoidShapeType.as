@@ -1,0 +1,6 @@
+
+enum EBoidObstacleShape
+{
+	Sphere,
+	Capsule
+}

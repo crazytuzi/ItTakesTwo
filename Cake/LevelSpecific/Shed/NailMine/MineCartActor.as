@@ -1,0 +1,4 @@
+class AMineCartActor : AHazeActor
+{
+    
+}

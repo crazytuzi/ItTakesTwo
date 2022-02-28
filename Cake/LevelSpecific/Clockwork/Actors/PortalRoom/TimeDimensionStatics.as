@@ -1,0 +1,5 @@
+enum ETimeDimension
+{
+	Past,
+	Present
+};

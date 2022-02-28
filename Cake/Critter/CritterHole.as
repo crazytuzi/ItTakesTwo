@@ -1,0 +1,4 @@
+class ACritterHole : AHazeActor
+{
+    
+}
